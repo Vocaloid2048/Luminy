@@ -1,4 +1,4 @@
-package com.voc2048.luminy
+package com.voc2048.luminy.utils
 
 import platform.UIKit.UIDevice
 
